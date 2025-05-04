@@ -1,0 +1,2 @@
+# SriLanka-financial-dashboard
+This repository contains the code, data, and documentation for an interactive Streamlit dashboard developed as part of the University of Westminster’s 5DATA004W Data Science Project Lifecycle module. The dashboard enables Sri Lankan government officials and policy makers to explore and analyze key national indicators using interactive visualizations. Built with Python and Streamlit, the project demonstrates the end-to-end data science workflow, including data acquisition, preparation, visualization, and deployment.
